@@ -1,0 +1,37 @@
+# Build artifacts
+build/
+dist/
+dist2/
+dist_final/
+dist_old/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Dioptas reference source (not part of this project)
+dioptas_source/
+
+# Claude
+.claude/
+
+# Logs
+*.log
